@@ -1,0 +1,7 @@
+smart_parking_system/
+├── main.py
+├── database.py
+├── license_plate_recognition.py
+├── billing.py
+├── utils.py
+└── requirements.txt
