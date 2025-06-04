@@ -1,0 +1,4 @@
+--- Parking Bill ---
+Plate Number: 22BH6517A
+Entry Time: 2025-06-04 19:48:20
+Exit Time: 2025-06-04 19:53:40
